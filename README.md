@@ -1,4 +1,4 @@
-<h1>Data Mining Project - Players </h1>
+<h1>Data Mining Players Project </h1>
 
  ### [Google Colab Demonstration](https://colab.research.google.com/drive/1xwJPQiL2BN_pFzZtwi02SGzE5z2QQmxu?usp=sharing)
 
